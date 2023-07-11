@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pointelismus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @Pointelismus
+- I’m interested in: to much
+- I’m currently learning: to stay alive
+- How to reach me: don't
+- don't take this serious
 
 <!---
 Pointelismus/Pointelismus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
